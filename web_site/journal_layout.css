@@ -1,0 +1,41 @@
+body{
+    background-image: url("./images/bg.jpg");
+    margin: 0 10% 0 10%;
+}
+#main{
+    border: 10px solid white;
+    background-color: white;
+    margin-top: 10px;
+}
+.header{
+    text-align: right;
+    background-color: #A8F0F0;
+}
+.navbar h2{
+    font-size: 14pt;
+}
+.section{
+    overflow: hidden;
+}
+.section_part{
+    border:  4px solid #C2E9E9;
+    background-color: #E8FBFB;
+    padding: 5px;
+    margin-top:10px;
+    overflow: hidden;
+}
+.section_part img{
+    float: right;
+}
+.section_part span{
+    border-bottom: 2px  dashed;
+    
+}
+ .friends{
+    float: left;
+    border: 5px solid #09848d;
+    padding: 5px;
+    margin: 10px;
+    margin-left: 0;
+    background-color: #3beaf7;
+}
